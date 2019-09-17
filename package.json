@@ -1,6 +1,6 @@
 {
-  "name": "fe-init",
-  "version": "1.0.0",
+  "name": "@niania/fe-init",
+  "version": "0.0.1",
   "description": "",
   "main": "lib/init_command.js",
   "bin": {
@@ -17,13 +17,14 @@
     }
   },
   "keywords": [],
-  "author": "",
+  "author": "ljracm@gmail.com",
   "license": "ISC",
   "dependencies": {
     "colors": "^1.3.2",
     "download-git-repo": "^1.1.0",
     "glob": "^7.1.3",
     "inquirer": "^6.2.0",
+    "js-base64": "^2.5.1",
     "mkdirp": "^0.5.1",
     "ora": "^3.0.0",
     "urllib": "^2.30.0",
