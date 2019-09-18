@@ -11,9 +11,9 @@
   },
   "boilerplates": {
     "react-for-demo": {
-      "org": "相应项目的url地址",
-      "name": "react-demo",
-      "desc": "这是项目的描述"
+      "org": "git@github.com:nianiaJR/business-ui.git",
+      "name": "business-ui",
+      "desc": "a template for components lib"
     }
   },
   "keywords": [],
