@@ -10,8 +10,8 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "boilerplates": {
-    "react-for-demo": {
-      "org": "git@github.com:nianiaJR/business-ui.git",
+    "bussiness-ui": {
+      "org": "https://github.com/nianiaJR/fe-init.git",
       "name": "business-ui",
       "desc": "a template for components lib"
     }
